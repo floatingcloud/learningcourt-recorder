@@ -44,11 +44,11 @@
       "default_popup": "dropdown.html"
    },
    "icons":{  
-      "16":"images/main-icon.png",
-      "22":"images/main-icon.png",
-      "32":"images/main-icon.png",
-      "48":"images/main-icon.png",
-      "128":"images/main-icon.png"
+      "16":"images/main-icon-16.png",
+      "22":"images/main-icon-22.png",
+      "32":"images/main-icon-32.png",
+      "48":"images/main-icon-48.png",
+      "128":"images/main-icon-128.png"
    },
    "permissions":[  
       "desktopCapture",
